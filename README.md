@@ -1,3 +1,5 @@
+# Challenge amigo secreto
+
 ## Descrição do Projeto
 
 Este é um projeto simples e interativo que permite gerenciar uma lista de amigos para um sorteio de amigo secreto. A aplicação permite aos usuários inserir nomes de amigos em uma lista e logo realizar um sorteio para determinar quem é o amigo secreto.
